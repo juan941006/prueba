@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node ./bin/www"
   },
+  "description": "lo que quiera prro",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
